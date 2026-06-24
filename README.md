@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Hash Table
@@ -19,5 +20,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
