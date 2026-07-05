@@ -19,6 +19,7 @@
 | [0704-binary-search](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
