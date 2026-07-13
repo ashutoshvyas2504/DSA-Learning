@@ -18,6 +18,7 @@
 | [0162-find-peak-element](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -42,6 +43,7 @@
 | [0035-search-insert-position](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -51,6 +53,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -117,4 +120,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
