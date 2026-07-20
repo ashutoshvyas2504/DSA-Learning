@@ -58,6 +58,7 @@
 | [0075-sort-colors](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -98,6 +99,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0316-remove-duplicate-letters) |
+| [0443-string-compression](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0443-string-compression) |
 ## Greedy
 |  |
 | ------- |
