@@ -100,6 +100,7 @@
 | [0179-largest-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0443-string-compression) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0724-find-pivot-index) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
