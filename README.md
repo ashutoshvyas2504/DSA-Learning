@@ -104,6 +104,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0443-string-compression) |
+| [1446-consecutive-characters](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
