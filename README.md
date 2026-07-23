@@ -81,6 +81,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0053-maximum-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [1446-consecutive-characters](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -112,6 +115,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
