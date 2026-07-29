@@ -22,6 +22,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -177,5 +178,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1572-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
