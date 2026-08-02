@@ -26,6 +26,7 @@
 | [0704-binary-search](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -95,6 +96,7 @@
 | [0042-trapping-rain-water](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0007-reverse-integer](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0066-plus-one) |
+| [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Heap (Priority Queue)
 |  |
@@ -205,4 +208,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0234-palindrome-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
