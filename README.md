@@ -189,6 +189,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0394-decode-string) |
 ## Matrix
@@ -207,6 +208,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0234-palindrome-linked-list) |
 ## Game Theory
 |  |
