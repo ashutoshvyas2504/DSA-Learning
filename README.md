@@ -28,6 +28,7 @@
 | [0867-transpose-matrix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0881-boats-to-save-people) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -117,12 +118,14 @@
 | [0394-decode-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0316-remove-duplicate-letters) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1019-next-greater-node-in-linked-list) |
 ## String
 |  |
 | ------- |
@@ -230,6 +233,7 @@
 | [0203-remove-linked-list-elements](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0328-odd-even-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Game Theory
 |  |
