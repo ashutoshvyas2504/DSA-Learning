@@ -35,6 +35,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1572-matrix-diagonal-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
 | ------- |
