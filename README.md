@@ -33,6 +33,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1572-matrix-diagonal-sum) |
+| [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -52,6 +53,7 @@
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
@@ -154,6 +156,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -163,6 +166,7 @@
 | [0048-rotate-image](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Heap (Priority Queue)
@@ -243,9 +247,22 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0142-linked-list-cycle-ii) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
