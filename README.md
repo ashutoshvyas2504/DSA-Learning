@@ -44,6 +44,7 @@
 | [0141-linked-list-cycle](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0242-valid-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -81,6 +82,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0443-string-compression) |
@@ -166,6 +168,7 @@
 | [0007-reverse-integer](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -258,6 +261,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0202-happy-number) |
 ## Minimax
 |  |
 | ------- |
