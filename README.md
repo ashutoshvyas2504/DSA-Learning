@@ -100,6 +100,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
@@ -172,6 +173,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1046-last-stone-weight) |
 ## Quickselect
@@ -234,6 +236,7 @@
 | [0002-add-two-numbers](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0142-linked-list-cycle-ii) |
@@ -267,4 +270,12 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
