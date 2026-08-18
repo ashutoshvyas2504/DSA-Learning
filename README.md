@@ -301,4 +301,20 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0204-count-primes) |
+## Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0965-univalued-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0965-univalued-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0965-univalued-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
