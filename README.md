@@ -20,6 +20,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
@@ -169,6 +170,7 @@
 | [0048-rotate-image](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -210,6 +212,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0204-count-primes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Recursion
 |  |
@@ -282,4 +285,20 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
