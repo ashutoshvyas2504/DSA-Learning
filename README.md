@@ -69,6 +69,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0704-binary-search) |
@@ -206,6 +207,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
@@ -307,6 +309,7 @@
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0222-count-complete-tree-nodes) |
 | [0965-univalued-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -319,5 +322,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0222-count-complete-tree-nodes) |
 | [0965-univalued-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
