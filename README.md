@@ -176,6 +176,7 @@
 | [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3099-harshad-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3099-harshad-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Heap (Priority Queue)
 |  |
