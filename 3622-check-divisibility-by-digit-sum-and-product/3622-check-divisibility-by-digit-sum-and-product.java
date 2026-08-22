@@ -10,8 +10,8 @@ class Solution {
             product = product * digit;
             temp = temp / 10;
         }
-
-        if (n % (product + sum) == 0) {
+        int proSum = product + sum;
+        if (n % proSum == 0) {
             return true;
         } else {
             return false;
