@@ -42,6 +42,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +192,7 @@
 | [3099-harshad-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3099-harshad-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3875-construct-uniform-parity-array-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
