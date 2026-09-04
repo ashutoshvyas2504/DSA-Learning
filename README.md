@@ -334,6 +334,7 @@
 | [0226-invert-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -345,6 +346,7 @@
 | [0226-invert-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -368,6 +370,7 @@
 | [0226-invert-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0965-univalued-binary-tree) |
 ## Backtracking
 |  |
@@ -377,4 +380,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
