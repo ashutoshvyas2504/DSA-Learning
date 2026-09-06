@@ -139,6 +139,7 @@
 | [0234-palindrome-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1019-next-greater-node-in-linked-list) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0402-remove-k-digits) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1019-next-greater-node-in-linked-list) |
 ## String
 |  |
@@ -161,6 +163,7 @@
 | [0257-binary-tree-paths](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -173,6 +176,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
