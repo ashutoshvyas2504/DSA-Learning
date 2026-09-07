@@ -346,6 +346,7 @@
 | [0257-binary-tree-paths](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -386,6 +387,7 @@
 | [0257-binary-tree-paths](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0965-univalued-binary-tree) |
 ## Backtracking
 |  |
@@ -396,6 +398,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
