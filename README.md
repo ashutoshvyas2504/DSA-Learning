@@ -31,6 +31,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0881-boats-to-save-people) |
@@ -143,6 +144,7 @@
 | [0394-decode-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0059-spiral-matrix-ii) |
+| [0735-asteroid-collision](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0867-transpose-matrix) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Linked List
