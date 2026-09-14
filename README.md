@@ -192,6 +192,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0150-evaluate-reverse-polish-notation) |
