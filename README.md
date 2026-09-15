@@ -199,6 +199,7 @@
 | [0202-happy-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -424,4 +425,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
