@@ -10,11 +10,9 @@ class Solution {
                     reverse <= Integer.MIN_VALUE) {
                 return 0;
             }
+
             x = x / 10;
-
         }
-
         return (int) reverse;
-
     }
 }
