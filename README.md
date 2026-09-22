@@ -28,6 +28,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
+| [0494-target-sum](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0724-find-pivot-index) |
@@ -129,6 +130,7 @@
 | [0042-trapping-rain-water](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0070-climbing-stairs) |
+| [0494-target-sum](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
@@ -410,6 +412,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0494-target-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -439,4 +442,12 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
