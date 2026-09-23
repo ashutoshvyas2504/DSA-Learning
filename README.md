@@ -203,6 +203,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0836-rectangle-overlap) |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0867-transpose-matrix) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -332,6 +334,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
