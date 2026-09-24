@@ -7,9 +7,6 @@ class Solution {
             if(i >= 1000){
                 count++;
             }
-            // if(i >= 10000){
-            //     count++;
-            // }
         }
         return count;
     }
