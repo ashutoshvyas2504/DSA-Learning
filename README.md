@@ -27,6 +27,7 @@
 | [0204-count-primes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
@@ -101,6 +102,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0881-boats-to-save-people) |
