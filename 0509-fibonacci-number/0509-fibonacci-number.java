@@ -1,11 +1,14 @@
-
-// fibonnaci using recursion
 class Solution {
     public int fib(int n) {
-        if (n == 0 || n == 1)
-            return n;
+        int first = 0;
+        int second = 1;
 
-        return fib(n - 1) + fib(n - 2);
+        for (int i = 1; i <= n; i++) {
+            int next = first + second;
+            first = second;
+            second = next;
+
+        }
+        return first;
     }
-
 }
