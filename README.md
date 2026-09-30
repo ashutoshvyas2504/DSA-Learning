@@ -138,6 +138,7 @@
 | [0509-fibonacci-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | [0509-fibonacci-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1137-n-th-tribonacci-number) |
 | [2029-stone-game-ix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2029-stone-game-ix) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3099-harshad-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3099-harshad-number) |
@@ -452,6 +454,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1137-n-th-tribonacci-number) |
 ## Knapsack Problem
 |  |
 | ------- |
