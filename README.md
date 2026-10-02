@@ -463,4 +463,12 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0494-target-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
