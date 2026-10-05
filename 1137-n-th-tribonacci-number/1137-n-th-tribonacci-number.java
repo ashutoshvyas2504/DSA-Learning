@@ -1,26 +1,16 @@
 class Solution {
     public int tribonacci(int n) {
+        int dp[] = new int[n + 1];
 
-        if (n == 0) {
-            return 0;
-        } else if (n == 1 && n == 2) {
-            return 1;
-        } else {
+        return solve(n, dp);
+    }
 
-            int first = 0;
-            int second = 1;
-            int third = 1;
+    public int solve(int n, int[] dp) {
+        if (n == 0 || n == 1) return n; 
+        if(n == 2) return 1;
+        if (dp[n] != 0) return dp[n];
 
-            for (int i = 1; i <= n; i++) {
-
-                int next = first + second + third;
-
-                first = second;
-                second = third;
-                third = next;
-
-            }
-            return first;
-        }
+        dp[n] = solve(n - 1, dp) + solve(n - 2, dp) + solve(n - 3, dp);
+        return dp[n];
     }
 }
