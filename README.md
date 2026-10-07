@@ -24,6 +24,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0268-missing-number) |
@@ -135,6 +136,7 @@
 | [0042-trapping-rain-water](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
