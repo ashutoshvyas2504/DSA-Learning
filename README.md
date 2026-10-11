@@ -39,6 +39,7 @@
 | [0867-transpose-matrix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0881-boats-to-save-people) |
+| [0922-sort-array-by-parity-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -109,6 +110,7 @@
 | [0344-reverse-string](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0881-boats-to-save-people) |
+| [0922-sort-array-by-parity-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -119,6 +121,7 @@
 | [0242-valid-anagram](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0881-boats-to-save-people) |
+| [0922-sort-array-by-parity-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
