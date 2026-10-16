@@ -18,6 +18,7 @@
 | [0066-plus-one](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -100,6 +101,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0142-linked-list-cycle-ii) |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ashutoshvyas2504/DSA-Learning/tree/master/0242-valid-anagram) |
